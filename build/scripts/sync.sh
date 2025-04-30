@@ -228,7 +228,7 @@ if [[ -f ${replaceFile} ]]; then
   done
   echo -n "[INFO] Sort package.json (to avoid nuissance commits): "
   pushd ${TARGETDIR} >/dev/null
-    npx -q sort-package-json
+    npx -q sort-package-json@2.15.1
   popd >/dev/null
 fi
 
