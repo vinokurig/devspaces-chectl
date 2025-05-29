@@ -3289,13 +3289,13 @@ detect-newline@^3.0.0:
   resolved "https://registry.yarnpkg.com/detect-newline/-/detect-newline-3.1.0.tgz#576f5dfc63ae1a192ff192d8ad3af6308991b651"
   integrity sha512-TLz+x/vEXm/Y7P7wn1EJFNLxYpUD4TgMosxY6fAVJUnJMbupHBOncxyWUG9OpTaH9EBD7uFI5LfEgmMOc54DsA==
 
-"devspaces-operator@https://github.com/redhat-developer/devspaces-images#devspaces-3-rhel-9":
+devspaces-operator@redhat-developer/devspaces-images#devspaces-3-rhel-9:
   version "0.0.0"
-  resolved "https://github.com/redhat-developer/devspaces-images#6e5fef6a89bcb735db4e69204d0bb0dfe3f1ba6b"
+  resolved "https://codeload.github.com/redhat-developer/devspaces-images/tar.gz/6e5fef6a89bcb735db4e69204d0bb0dfe3f1ba6b"
 
-"devworkspace-operator@https://github.com/devfile/devworkspace-operator#main":
+devworkspace-operator@devfile/devworkspace-operator#main:
   version "0.0.0"
-  resolved "https://github.com/devfile/devworkspace-operator#1a654502dde7fc2805dab0fb978610bd3da766f8"
+  resolved "https://codeload.github.com/devfile/devworkspace-operator/tar.gz/1a654502dde7fc2805dab0fb978610bd3da766f8"
 
 dezalgo@^1.0.0:
   version "1.0.4"
